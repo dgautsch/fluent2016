@@ -12,11 +12,9 @@ function generateKey() {
         ["encrypt", "decrypt"]
     ).then(function(key){
         // Export to ArrayBuffer
-        return window.crypto.subtle.exportKey(
-            "raw",
-            key
-        );
-    }).then(function(buf){
+        return window.crypto.subtle.exportKey("raw",key);
+    })
+    .then(function(buf){
         // Cast to a byte array, place in Key field
         var byteArray = new Uint8Array(buf);
         var keyField = document.getElementById("key");
