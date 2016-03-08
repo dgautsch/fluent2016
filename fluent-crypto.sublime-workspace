@@ -1,0 +1,1025 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"hexSt",
+				"hexStringToByteArray〔function〕"
+			],
+			[
+				"byteAr",
+				"byteArrayToHexString〔function〕"
+			],
+			[
+				"export",
+				"module.exports"
+			],
+			[
+				"primar",
+				"primary-blue"
+			],
+			[
+				"we",
+				"weeklyIntervalId"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"sv-nav-con",
+				"sv-nav-controls--visible"
+			],
+			[
+				"get",
+				"getActiveOption"
+			],
+			[
+				"sv",
+				"sv-view-all"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "scratch.js",
+			"settings":
+			{
+				"buffer_size": 629,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Labs/3/index.html",
+			"settings":
+			{
+				"buffer_size": 965,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Labs/1/index.html",
+			"settings":
+			{
+				"buffer_size": 984,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "instal",
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"ej",
+				"Set Syntax: EJS (<% and %>)"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"enable",
+				"SublimeLinter: Enable Linter"
+			],
+			[
+				"linting",
+				"SublimeLinter: Enable Linting"
+			],
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"lint",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"linter",
+				"SublimeLinter: Enable Linting"
+			],
+			[
+				"lint this",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"disa",
+				"SublimeLinter: Disable Linter"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"syntax",
+				"Set Syntax: Makefile"
+			],
+			[
+				"tog",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Object Method"
+			],
+			[
+				"toggl",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"handle",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"htm",
+				"HTMLPrettify"
+			],
+			[
+				"jso",
+				"Set Syntax: JSON"
+			],
+			[
+				"js",
+				"Set Syntax: JSON"
+			],
+			[
+				"toggle lin",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"lin",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"coffee",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"syntax: cof",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"javascr",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"jv",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 152.0,
+		"history":
+		[
+			"sublime.version()",
+			"sublime",
+			"help"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/dangautsch/Dev/fluent_cryptography",
+		"/Users/dangautsch/Dev/fluent_cryptography/Labs",
+		"/Users/dangautsch/Dev/fluent_cryptography/Labs/3",
+		"/Users/dangautsch/Dev/fluent_cryptography/Solutions",
+		"/Users/dangautsch/Dev/fluent_cryptography/Solutions/2"
+	],
+	"file_history":
+	[
+		"/Users/dangautsch/Dev/fluent_cryptography/Solutions/2/lab2.js",
+		"/Users/dangautsch/Dev/fluent_cryptography/Labs/2/lab2.js",
+		"/Users/dangautsch/Dev/fluent_cryptography/.eslintrc",
+		"/Users/dangautsch/Dev/fluent_cryptography/Labs/1/README.md",
+		"/Users/dangautsch/Dev/fluent_cryptography/Labs/2/util.js",
+		"/Users/dangautsch/Dev/fluent_cryptography/Labs/2/wiring.js",
+		"/Users/dangautsch/Dev/fluent_cryptography/Solutions/1/lab1.js",
+		"/Users/dangautsch/Dev/fluent_cryptography/Labs/1/lab1.js",
+		"/Users/dangautsch/Dev/fluent_cryptography/Labs/1/util.js",
+		"/Users/dangautsch/Dev/fluent_cryptography/Labs/1/index.html",
+		"/Users/dangautsch/Dev/fluent_cryptography/Labs/1/wiring.js",
+		"/Users/dangautsch/Dev/janssen_build_kit/src/assets/styles/site/components/_scroll-to-top.scss",
+		"/Users/dangautsch/Dev/janssen_build_kit/src/assets/scripts/components/scroll-to-top.js",
+		"/Users/dangautsch/Dev/janssen_build_kit/src/assets/styles/site/components/_isi-tray.scss",
+		"/Users/dangautsch/Dev/janssen_build_kit/src/assets/scripts/components/isi-tray.js",
+		"/Users/dangautsch/Dev/janssen_build_kit/src/layouts/tertiary/_layout.ejs",
+		"/Users/dangautsch/Dev/janssen_build_kit/src/assets/styles/site/components/_footer-utility.scss",
+		"/Users/dangautsch/Dev/janssen_build_kit/src/assets/styles/site/components/_footer.scss",
+		"/Users/dangautsch/Dev/janssen_build_kit/src/patterns/components/need-help-expanded.ejs",
+		"/Users/dangautsch/Dev/janssen_build_kit/src/assets/styles/site/settings/_variables.scss",
+		"/Users/dangautsch/Dev/janssen_build_kit/src/assets/styles/site/objects/_tables.scss",
+		"/Users/dangautsch/Dev/janssen_build_kit/src/layouts/tertiary/product-listings.ejs",
+		"/Users/dangautsch/Sites/vvv/www/splitscoop/splitscoop.sublime-project",
+		"/Users/dangautsch/Dev/janssen_build_kit/src/layouts/_partials/sidebar-explore.ejs",
+		"/Users/dangautsch/Dev/janssen_build_kit/src/layouts/tertiary/explore-tools.ejs",
+		"/Users/dangautsch/Dev/janssen_build_kit/test/patterns/modals/modal-shortform.html",
+		"/Users/dangautsch/Dev/janssen_build_kit/src/assets/styles/site/components/_modal.scss",
+		"/Users/dangautsch/Dev/janssen_build_kit/src/layouts/_layout.ejs",
+		"/Users/dangautsch/Dev/janssen_build_kit/src/layouts/_partials/sidebar.ejs",
+		"/Users/dangautsch/Dev/janssen_build_kit/test/layouts/tertiary/explore-tools.html",
+		"/Users/dangautsch/Dev/janssen_build_kit/src/assets/styles/site/components/_tool-access-form.scss",
+		"/Users/dangautsch/Dev/janssen_build_kit/src/assets/styles/site/base/_forms.scss",
+		"/Users/dangautsch/Dev/janssen_build_kit/src/assets/styles/build-kit/main.scss",
+		"/Users/dangautsch/Dev/janssen_build_kit/src/assets/styles/site/objects/_popover.scss",
+		"/Users/dangautsch/Dev/janssen_build_kit/src/assets/scripts/components/popovers.js",
+		"/Users/dangautsch/Dev/janssen_build_kit/src/patterns/_partials/patterns/components/forms/hcp-form.ejs",
+		"/Users/dangautsch/Dev/janssen_build_kit/src/assets/styles/site/components/_buttons.scss",
+		"/Users/dangautsch/Dev/janssen_build_kit/src/components/isi-tray.ejs",
+		"/Users/dangautsch/Dev/janssen_build_kit/src/layouts/secondary/search.ejs",
+		"/Users/dangautsch/Dev/janssen_build_kit/src/patterns/_partials/patterns/components/footer-utility.ejs",
+		"/Users/dangautsch/Dev/janssen_build_kit/src/layouts/secondary/main.ejs",
+		"/Users/dangautsch/Dev/janssen_build_kit/src/patterns/_partials/patterns/components/medical-search.ejs",
+		"/Users/dangautsch/Dev/janssen_build_kit/src/patterns/modals/modal-longform.ejs",
+		"/Users/dangautsch/Dev/janssen_build_kit/src/patterns/base/buttons.ejs",
+		"/Users/dangautsch/Dev/janssen_build_kit/src/patterns/_partials/patterns/objects/button.ejs",
+		"/Users/dangautsch/Dev/janssen_build_kit/src/assets/styles/site/components/_search.scss",
+		"/Users/dangautsch/Dev/janssen_build_kit/src/patterns/_partials/patterns/objects/modal.ejs",
+		"/Users/dangautsch/Dev/janssen_build_kit/src/patterns/components/alerts.ejs",
+		"/Users/dangautsch/Dev/janssen_build_kit/src/patterns/_partials/patterns/objects/alert.ejs",
+		"/Users/dangautsch/Dev/janssen_build_kit/src/assets/styles/site/components/_selected-products.scss",
+		"/Users/dangautsch/Dev/janssen_build_kit/src/patterns/_partials/patterns/components/scroll-to-form.ejs",
+		"/Users/dangautsch/Dev/janssen_build_kit/src/assets/scripts/components/accordions.js",
+		"/Users/dangautsch/Dev/janssen_build_kit/src/patterns/_partials/patterns/components/product-matrix/_selected-products.ejs",
+		"/Users/dangautsch/Dev/janssen_build_kit/src/layouts/secondary/_layout.ejs",
+		"/Users/dangautsch/Dev/janssen_build_kit/src/patterns/_partials/patterns/objects/breadcrumb.ejs",
+		"/Users/dangautsch/Dev/janssen_build_kit/src/patterns/components/breadcrumb-header.ejs",
+		"/Users/dangautsch/Dev/janssen_build_kit/janssen-buildkit.sublime-project",
+		"/Users/dangautsch/Dev/janssen_build_kit/src/assets/styles/site/components/_product-matrix.scss",
+		"/Users/dangautsch/Dev/janssen_build_kit/src/patterns/modals/scroll-to-form.ejs",
+		"/Users/dangautsch/Dev/janssen_build_kit/src/assets/scripts/components/therapeutic-areas.js",
+		"/Users/dangautsch/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/Users/dangautsch/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/dangautsch/Dev/janssen_build_kit/src/patterns/modals/modal-hcp-form.ejs",
+		"/Users/dangautsch/Dev/janssen_build_kit/src/patterns/_partials/patterns/components/product-matrix/therapeutic-areas.ejs",
+		"/Users/dangautsch/Dev/janssen_build_kit/src/patterns/product-matrix/therapeutic-areas.ejs",
+		"/Users/dangautsch/Dev/janssen_build_kit/src/_layout.ejs",
+		"/Users/dangautsch/Dev/janssen_build_kit/test/patterns/components/breadcrumb-header.html",
+		"/Users/dangautsch/Dev/janssen_build_kit/src/assets/scripts/common/index.js",
+		"/Users/dangautsch/Dev/janssen_build_kit/src/assets/scripts/main.js",
+		"/Users/dangautsch/Dev/janssen_build_kit/test/assets/scripts/components/isi-tray.js",
+		"/Users/dangautsch/Dev/janssen_build_kit/src/patterns/_partials/patterns/components/need-help/need-help-expanded.ejs",
+		"/Users/dangautsch/Dev/janssen_build_kit/src/patterns/_partials/patterns/components/need-help/need-help-condensed.ejs",
+		"/Users/dangautsch/Dev/janssen_build_kit/src/assets/scripts/components/product-listings.js",
+		"/Users/dangautsch/Dev/janssen_build_kit/src/patterns/_partials/patterns/components/need-help/_need-help-info.ejs",
+		"/Users/dangautsch/Dev/janssen_build_kit/src/assets/scripts/timeline/timeline.js",
+		"/Users/dangautsch/Dev/janssen_build_kit/dist/assets/styles/main.css",
+		"/Users/dangautsch/Dev/janssen_build_kit/bundle.js",
+		"/Users/dangautsch/Dev/janssen_build_kit/dist/assets/scripts/bundle.js",
+		"/Users/dangautsch/Dev/janssen_build_kit/dist/assets/styles/build-kit/main.css",
+		"/Users/dangautsch/Desktop/timeline/index.html",
+		"/Users/dangautsch/Dev/janssen_build_kit/dist/index.html",
+		"/Users/dangautsch/Dev/janssen_build_kit/gulpfile.babel.js",
+		"/Users/dangautsch/Dev/janssen_build_kit/package.json",
+		"/Users/dangautsch/Dev/janssen_build_kit/dist/patterns/modals/modal-timeline.html",
+		"/Users/dangautsch/Dev/janssen_build_kit/test/assets/scripts/components/product-listings.js",
+		"/Users/dangautsch/Dev/janssen_build_kit/dist/assets/scripts/bundle.js.map",
+		"/Users/dangautsch/Dev/janssen_build_kit/src/patterns/components/tool-access-form.ejs",
+		"/Users/dangautsch/Dev/janssen_build_kit/src/patterns/base/table.ejs",
+		"/Users/dangautsch/Dev/janssen_build_kit/src/patterns/_partials/patterns/components/tool-access-form.ejs",
+		"/Users/dangautsch/Dev/janssen_build_kit/src/assets/styles/site/base/_headings.scss",
+		"/Users/dangautsch/Dev/janssen_build_kit/src/assets/styles/site/base/_fonts.scss",
+		"/Users/dangautsch/Dev/janssen_build_kit/src/patterns/product-matrix/selected-products-mobile.ejs",
+		"/Users/dangautsch/Dev/janssen_build_kit/src/patterns/_partials/patterns/components/title.ejs",
+		"/Users/dangautsch/Dev/janssen_build_kit/src/patterns/typography/headings.ejs",
+		"/Users/dangautsch/Dev/janssen_build_kit/src/assets/styles/site/helpers/_typography.scss",
+		"/Users/dangautsch/Dev/janssen_build_kit/dist/assets/scripts/components/product-listings.js",
+		"/Users/dangautsch/Dev/janssen_build_kit/src/index.ejs",
+		"/Users/dangautsch/Dev/janssen_build_kit/src/assets/scripts/components/product-matrix.js",
+		"/Users/dangautsch/Dev/janssen_build_kit/dist/assets/scripts/components/product-matrix.js",
+		"/Users/dangautsch/Dev/janssen_build_kit/src/patterns/modals/modal-loader.ejs",
+		"/Users/dangautsch/Dev/janssen_build_kit/src/assets/scripts/build-kit.js",
+		"/Users/dangautsch/Dev/janssen_build_kit/src/assets/scripts/components/loader.js",
+		"/Users/dangautsch/Dev/janssen_build_kit/src/layouts/main.ejs",
+		"/Users/dangautsch/Dev/janssen_build_kit/src/patterns/_partials/patterns/components/card-grid.ejs",
+		"/Users/dangautsch/Dev/janssen_build_kit/src/patterns/_partials/patterns/components/card-link.ejs",
+		"/Users/dangautsch/Dev/janssen_build_kit/src/patterns/popovers/popover.ejs",
+		"/Users/dangautsch/Dev/janssen_build_kit/src/assets/styles/site/components/_explore-tools.scss",
+		"/Users/dangautsch/Dev/janssen_build_kit/src/assets/scripts/components/hcp-form.js",
+		"/Users/dangautsch/Dev/janssen_build_kit/src/patterns/_partials/patterns/components/explore-tools.ejs",
+		"/Users/dangautsch/Dev/janssen_build_kit/src/patterns/_partials/patterns/components/pi-nav.ejs",
+		"/Users/dangautsch/Dev/janssen_build_kit/src/assets/styles/site/tools/_media.scss",
+		"/Users/dangautsch/Dev/janssen_build_kit/README.md",
+		"/Users/dangautsch/Dev/janssen_build_kit/src/assets/styles/site/components/_pi-nav.scss",
+		"/Users/dangautsch/Dev/janssen_build_kit/src/assets/styles/site/components/_table-responsive.scss",
+		"/Users/dangautsch/Dev/janssen_build_kit/src/assets/scripts/bundle.js",
+		"/Users/dangautsch/Dev/janssen_build_kit/src/patterns/modals/modal-shortform.ejs",
+		"/Users/dangautsch/Dev/janssen_build_kit/src/patterns/modals/modal-products.ejs",
+		"/Users/dangautsch/Dev/janssen_build_kit/src/assets/scripts/components/pi-nav.js",
+		"/Users/dangautsch/Dev/janssen_build_kit/src/patterns/index.ejs",
+		"/Users/dangautsch/Dev/janssen_build_kit/src/assets/styles/main.scss",
+		"/Users/dangautsch/Dev/janssen_build_kit/src/patterns/components/pi-nav.ejs",
+		"/Users/dangautsch/Dev/janssen_build_kit/.eslintrc",
+		"/Users/dangautsch/Dev/janssen_build_kit/.babelrc",
+		"/Users/dangautsch/Dev/janssen_build_kit/src/assets/scripts/components/ajax.js",
+		"/Users/dangautsch/Dev/janssen_build_kit/src/assets/scripts/components/modal.js",
+		"/Users/dangautsch/Dev/janssen_build_kit/dist/assets/scripts/main.js",
+		"/Users/dangautsch/Dev/janssen_build_kit/dist/patterns/components/pi-nav.html",
+		"/Users/dangautsch/Desktop/splitscoop/functions.php"
+	],
+	"find":
+	{
+		"height": 70.0
+	},
+	"find_in_files":
+	{
+		"height": 154.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"generateKey",
+			"font-size",
+			"scroll-to-top",
+			"is-fixed",
+			"scrollIdentifier",
+			"$trayPlaceholder",
+			"sidebar-explore",
+			"footer-utility",
+			"utility",
+			"blue",
+			"Product ",
+			"PRODUCT ",
+			"Product ",
+			"Product Announcements",
+			"Product Announcments",
+			"scrollTrigger",
+			"scrollIdentifier",
+			"isi-tray",
+			"scroll-to",
+			"is-fixed",
+			"-popover",
+			" '",
+			"\n            ",
+			"more-information",
+			"div",
+			"user.name",
+			"Report an Adverse Event",
+			"search-control",
+			"btn--search",
+			"submit",
+			"btn--search",
+			"btn--close",
+			"popover-close",
+			"container--hcp",
+			"modal-scroll",
+			"modal-sroll",
+			"scroll",
+			"modal-scroll",
+			"jmd-modal-lead",
+			"selected-products",
+			"background-color",
+			"jmd-selected-products",
+			"selected",
+			"trans",
+			"selected-products",
+			"debounce",
+			"sizeCheck",
+			"hidden",
+			"modal",
+			"/a",
+			"jquery",
+			".jmd-product-listing-nav a[href*=#]:not([href=#])",
+			"slick",
+			"12",
+			"color:#f00;",
+			"5",
+			"display",
+			"product-matrix",
+			"loader",
+			"more-information-icon",
+			"overflow",
+			"jmd-form-container--hcp",
+			"Pharmacists or Nurses",
+			"closePopover",
+			"$thisPopover",
+			"target",
+			"div",
+			"aliqu",
+			"panel-body ",
+			"title-text",
+			"wider-than",
+			"open",
+			"hcp",
+			"hasInputValues",
+			"smoothScroll",
+			"JMD",
+			"– ",
+			" – ",
+			"·        ",
+			"successClearTimeout",
+			"accordion",
+			"jmd-tools-primary-panel-title",
+			".show",
+			"show",
+			"build",
+			"public.",
+			"expr",
+			"Obj",
+			"color",
+			"/patterns/objects",
+			"header",
+			"need",
+			"card.ejs",
+			"direction",
+			"focusCapture",
+			"focusableSelector",
+			"\"",
+			"JANSSENMD",
+			"inline-icon-before",
+			"_harp",
+			"harp",
+			"span",
+			"biography",
+			"ta-profile-",
+			"a-profile",
+			"div",
+			".run",
+			", 'copy'",
+			"resync",
+			"reload",
+			"identifier = \"resources\"",
+			"copy",
+			"div",
+			"images",
+			"'end'",
+			"change",
+			"gulp.start('hugo-copy');",
+			".on('change', () => {reload();})",
+			"end",
+			"{reload();}",
+			".on('change', () => {gulp.start('resync');})",
+			"agent",
+			"Policies",
+			"policies",
+			"Policies",
+			"4",
+			"-102",
+			"-10"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "scratch.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 629,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								505,
+								494
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Labs/3/index.html",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 965,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Labs/1/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 984,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								417,
+								406
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 51.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 116.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "fluent-crypto.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"_search",
+				"src/assets/styles/site/components/_search.scss"
+			],
+			[
+				"footer",
+				"src/assets/styles/site/components/_footer.scss"
+			],
+			[
+				"isi",
+				"src/assets/styles/site/components/_isi-tray.scss"
+			],
+			[
+				"need",
+				"src/patterns/components/need-help-expanded.ejs"
+			],
+			[
+				"vari",
+				"src/assets/styles/site/settings/_variables.scss"
+			],
+			[
+				"table",
+				"src/assets/styles/site/objects/_tables.scss"
+			],
+			[
+				"hcp",
+				"src/patterns/_partials/patterns/components/forms/hcp-form.ejs"
+			],
+			[
+				"short",
+				"test/patterns/modals/modal-shortform.html"
+			],
+			[
+				"popo",
+				"src/assets/scripts/components/popovers.js"
+			],
+			[
+				"layout/seconday",
+				"src/layouts/secondary/_layout.ejs"
+			],
+			[
+				"bread",
+				"src/patterns/components/breadcrumb-header.ejs"
+			],
+			[
+				"thera",
+				"src/assets/scripts/components/therapeutic-areas.js"
+			],
+			[
+				"therap",
+				"src/patterns/_partials/patterns/components/product-matrix/therapeutic-areas.ejs"
+			],
+			[
+				"product-list",
+				"src/assets/scripts/components/product-listings.js"
+			],
+			[
+				"selected",
+				"src/patterns/product-matrix/selected-products-mobile.ejs"
+			],
+			[
+				"loader",
+				"src/assets/scripts/components/loader.js"
+			],
+			[
+				"form.sc",
+				"src/assets/styles/site/base/_forms.scss"
+			],
+			[
+				"popover",
+				"src/assets/scripts/components/popovers.js"
+			],
+			[
+				"pop",
+				"src/patterns/popovers/popover.ejs"
+			],
+			[
+				"explore",
+				"src/patterns/_partials/patterns/components/explore-tools.ejs"
+			],
+			[
+				"index.ejs",
+				"src/index.ejs"
+			],
+			[
+				"_modal",
+				"src/assets/styles/site/components/_modal.scss"
+			],
+			[
+				"table.sc",
+				"src/assets/styles/site/objects/_tables.scss"
+			],
+			[
+				"pi-nav",
+				"src/assets/scripts/components/pi-nav.js"
+			],
+			[
+				"pi-n",
+				"src/patterns/components/pi-nav.ejs"
+			],
+			[
+				"main.js",
+				"dist/assets/scripts/main.js"
+			],
+			[
+				"isi-tray.scs",
+				"src/assets/styles/site/components/_isi-tray.scss"
+			],
+			[
+				"settings.scs",
+				"src/assets/styles/site/settings/_variables.scss"
+			],
+			[
+				"main.sc",
+				"src/assets/styles/main.scss"
+			],
+			[
+				"search",
+				"dist/assets/scripts/components/search.js"
+			],
+			[
+				"isi-tr",
+				"src/assets/styles/site/components/_isi-tray.scss"
+			],
+			[
+				"isi-tra",
+				"src/assets/scripts/components/isi-tray.js"
+			],
+			[
+				"gu",
+				"gulpfile.babel.js"
+			],
+			[
+				"package",
+				"package.json"
+			],
+			[
+				"pi-",
+				"src/patterns/components/pi-nav.ejs"
+			],
+			[
+				"ko.js",
+				"themes/transamerica/app/components/knockout/ko.js"
+			],
+			[
+				"_agent",
+				"themes/transamerica/app/components/agent/_agent.scss"
+			],
+			[
+				"components.s",
+				"themes/transamerica/app/styles/_components.scss"
+			],
+			[
+				"main",
+				"public/main.js"
+			],
+			[
+				"gulp",
+				"gulpfile.babel.js"
+			],
+			[
+				"ko.",
+				"themes/transamerica/app/components/knockout/ko.js"
+			],
+			[
+				"_compon",
+				"themes/transamerica/app/styles/_components.scss"
+			],
+			[
+				"needs.",
+				"themes/transamerica/app/components/needs/needs.js"
+			],
+			[
+				"needs.js",
+				"themes/transamerica/app/components/needs/needs.js"
+			],
+			[
+				"welcome",
+				"themes/transamerica/app/components/welcome/_welcome.scss"
+			],
+			[
+				"read",
+				"README.md"
+			],
+			[
+				"rout",
+				"app/router.js"
+			],
+			[
+				"ma",
+				"node_modules/babel-core/node_modules/lodash/function/modArgs.js"
+			],
+			[
+				"naviga",
+				".tmp/components/partials/navigation.hbs"
+			],
+			[
+				"router",
+				"app/router.js"
+			],
+			[
+				"gul",
+				"gulpfile.babel.js"
+			],
+			[
+				"scri",
+				"study-viewer/src/js/scripts.js"
+			],
+			[
+				"scrip",
+				"study-viewer/src/js/scripts.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "jan",
+		"selected_items":
+		[
+			[
+				"jan",
+				"~/Sites/janssen_eddi-us/janssen_eddi-us.sublime-project"
+			],
+			[
+				"build",
+				"~/Dev/janssen_build_kit/janssen-buildkit.sublime-project"
+			],
+			[
+				"ja",
+				"~/Sites/janssen_eddi-us/janssen_eddi-us.sublime-project"
+			],
+			[
+				"jans",
+				"~/Sites/janssen_eddi-us/janssen_eddi-us.sublime-project"
+			],
+			[
+				"time",
+				"~/Dev/timeline/comcast-timeline.sublime-project"
+			],
+			[
+				"timeline",
+				"~/Dev/timeline/comcast-timeline.sublime-project"
+			],
+			[
+				"",
+				"~/Dev/timeline/comcast-timeline.sublime-project"
+			],
+			[
+				"timel",
+				"~/Dev/timeline/comcast-timeline.sublime-project"
+			],
+			[
+				"trans",
+				"~/Dev/transamerica/transamerica.sublime-project"
+			],
+			[
+				"spl",
+				"~/Sites/vvv/www/splitscoop/splitscoop.sublime-project"
+			],
+			[
+				"split",
+				"~/Dev/splitscoop/splitscoop.sublime-workspace"
+			],
+			[
+				"tran",
+				"~/Dev/transamerica/transamerica.sublime-project"
+			],
+			[
+				"tra",
+				"~/Dev/transamerica/transamerica.sublime-project"
+			],
+			[
+				"flux",
+				"~/Dev/transamerica-flux/trans-flux.sublime-project"
+			],
+			[
+				"emil",
+				"~/Dev/emilysoz/emilysoz.sublime-project"
+			],
+			[
+				"react",
+				"~/Dev/transamerica-flux/trans-flux.sublime-project"
+			],
+			[
+				"grap",
+				"~/Dev/grapher/grapher.sublime-project"
+			],
+			[
+				"bab",
+				"~/Dev/babel-sandbox/babel-barcamp.sublime-project"
+			],
+			[
+				"da",
+				"~/Dev/dangautsch/dangautsch.sublime-project"
+			],
+			[
+				"dang",
+				"~/Dev/dangautsch/dangautsch.sublime-project"
+			],
+			[
+				"hug",
+				"~/Dev/hugo/hugo.sublime-project"
+			],
+			[
+				"fl",
+				"~/Dev/transamerica-flux/trans-flux.sublime-project"
+			],
+			[
+				"graph",
+				"~/Dev/grapher/grapher.sublime-project"
+			],
+			[
+				"gra",
+				"~/Dev/grapher/grapher.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 329.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

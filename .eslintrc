@@ -1,0 +1,28 @@
+"eslintConfig": {
+	"rules": {
+		"indent": [
+			1,
+			"tab"
+		],
+		"quotes": [
+			2,
+			"single"
+		],
+		"semi": [
+			2,
+			"always"
+		],
+		"no-undef": [
+			2, {
+				"typeof": true
+			}
+		],
+		"no-unused-vars": [2, {
+			"vars": "all",
+			"args": "after-used"
+		}]
+	},
+	"env": {
+		"browser": true
+	}
+}
